@@ -1,0 +1,13 @@
+joint_monkey.py
+*.ipynb
+*.pkl
+*.pt
+*.pyc
+.env
+args.txt
+
+__pycache__
+wandb
+model
+results
+.vscode
